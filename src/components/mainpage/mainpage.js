@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import SuccessPage from "./successPage";
-import GreetPage from "./greetPage";
-import Loading from "./loading";
+//import GreetPage from "./greetPage";
+//import Loading from "./loading";
 
 class Mainpage extends Component {
   render() {
