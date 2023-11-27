@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import PromptCard from "../promptcard/promptcard";
-import wave from "../../assets/wave.png";
+//import wave from "../../assets/wave.png";
 import historyicon from "../../assets/history_icon.svg";
 import RecsCard from "./recsCard";
 import { CiSearch } from "react-icons/ci";
