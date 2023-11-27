@@ -1,5 +1,5 @@
-import axios from "axios";
-import { BASE_URL } from "../../constants/constant";
+//import axios from "axios";
+//import { BASE_URL } from "../../constants/constant";
 import { transport } from "../Auth";
 const getFiles = async () => {
     const res = await transport({
