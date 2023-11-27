@@ -1,0 +1,1 @@
+# strived_frontend
